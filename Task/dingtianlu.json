@@ -2,14 +2,8 @@
     "name": "ding自用",
     "description": "自用",
     "task": [
-        "20 13 * * 6 https://raw.githubusercontent.com/dingtianlu/QuantumultX/master/jd/hzm/share_code.js tag=获取互助码(自用), img-url=https://github.com/dingtianlu/QuantumultX/raw/master/jd/hzm/jd.png, enabled=true",
+        "20 13 * * 6 https://raw.githubusercontent.com/dingtianlu/QuantumultX/master/jd/hzm/share_code.js tag=获取互助码(自用), img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
         "5 6-18/6 * * * https://raw.githubusercontent.com/dingtianlu/QuantumultX/master/jd/nongchang/jd_fruit.js, tag=东东农场(自用), img-url=https://github.com/dingtianlu/QuantumultX/raw/master/jd/nongchang/jdnc.png, enabled=true",
-        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js, tag=中国移动, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10086.png, enabled=true",
-        "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/historyToday/index.js, tag=历史上的今天, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/historyToday.png, enabled=true",
-        "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/bilibili/bangumiMonitor.js, tag=哔哩哔哩番剧监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png, enabled=true",
-        "0 1 0 1 * ? https://raw.githubusercontent.com/lowking/Scripts/master/bilibili/privilegeReceive.js, tag=哔哩哔哩大会员特权领取, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png, enabled=true",
         "0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/unipay.png, enabled=true",
-        "*/30 * * * * * https://gitee.com/passerby-b/javascript/raw/master/dyjs.js, tag=抖音极速版刷音符, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/dyjs.png, enabled=true",
-        "*/30 * * * * * https://gitee.com/passerby-b/javascript/raw/master/dyjs.js, tag=小火山极速版刷音符, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/xhsjs.png, enabled=true"
-    ]
+        "*/30 * * * * * https://gitee.com/passerby-b/javascript/raw/master/dyjs.js, tag=抖音极速版刷音符, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/dyjs.png, enabled=true"
 }
